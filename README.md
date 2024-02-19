@@ -5,7 +5,12 @@ The business task at hand is aimed at increasing the number of annual users, thi
 The data used is gotten from [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
 All the data manipulation and cleaning was done through mssql and the sql scripts involved are
+1. [Data combination](https://github.com/adeyemo-emmanuel/Cyclistic-bike-share/blob/main/1.%20data%20combination.sql)
+2. [Data exploration](https://github.com/adeyemo-emmanuel/Cyclistic-bike-share/blob/main/2.%20data%20exploration.sql)
+3. [Data cleaning](https://github.com/adeyemo-emmanuel/Cyclistic-bike-share/blob/main/3.%20data%20cleaning.sql)
+4. [Data analysis](https://github.com/adeyemo-emmanuel/Cyclistic-bike-share/blob/main/4.%20data%20analysis.sql)
 
+The visualization of this analysis is in Tableau [here](https://public.tableau.com/app/profile/emmanuel.adeyemo/viz/CyclisticBikeTrip/CyclisticDashboard)
 
 When it comes to bike preferences, annual members and casual riders exhibit varying trends. The majority of all riders opt for classic bikes, with annual members showing a substantial count of 1,708,640 trips with casual riders counting for a total of 888,779 trips, meanwhile trips including the electric bikes was a recorded 902,525 trips for annual members whereas casual riders ride a total of 694,550 trips. Docked bikes are only used by casual riders, with 174,858 trips recorded.
 
